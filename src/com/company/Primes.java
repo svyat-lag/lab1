@@ -1,7 +1,7 @@
 package com.company;
 
 import static java.lang.Math.sqrt;
-
+//Finds prime numbers in range 1..100
 public class Primes {
     public static void main(String[] args){
         for (int i = 1; i <= 100; i++){
